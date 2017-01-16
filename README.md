@@ -1,0 +1,2 @@
+# LoadBMP
+using WinBGI (modified)
